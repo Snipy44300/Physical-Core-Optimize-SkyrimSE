@@ -1,0 +1,13 @@
+[
+    { "type": "copy", "source": "d3d10.dll", "destination": "d3d10.dll" },
+    { "type": "copy", "source": "d3d10_1.dll", "destination": "d3d10_1.dll" },
+    { "type": "copy", "source": "d3d10core.dll", "destination": "d3d10core.dll" },
+    { "type": "copy", "source": "d3d11_dxvkasync1_10_3.dll", "destination": "d3d11_dxvkasync1_10_3.dll" },
+    { "type": "copy", "source": "d3d8.dll", "destination": "d3d8.dll" },
+    { "type": "copy", "source": "d3d9.dll", "destination": "d3d9.dll" },
+    { "type": "copy", "source": "dxvk.conf", "destination": "dxvk.conf" },
+    { "type": "copy", "source": "dxvk_config.dll", "destination": "dxvk_config.dll" },
+    { "type": "copy", "source": "_ENGLISH MY USEFULNESS.txt", "destination": "Data\\_ENGLISH MY USEFULNESS.txt" },
+    { "type": "copy", "source": "_FRENCH JE SERT A QUOI.txt", "destination": "Data\\_FRENCH JE SERT A QUOI.txt " },
+    { "type": "setmodtype", "value": "dinput" }
+]
