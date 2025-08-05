@@ -55,6 +55,7 @@ simply launch the .bat file corresponding to your language:
 
 Otherwise, if you're using ModOrganiser, simply add the .bat file like this:
 https://i.postimg.cc/k5xgNbCs/E8-C73508-8-E93-4-B62-A41-F-3397-D7556-FF5.png
+
 Or, launch Physical Core Optimizer via MO2_US, which will automatically search for your SKSE and optimize it!
 
 🛑 Always run the script as administrator, otherwise PowerShell won't be able to access your processor's information.
@@ -146,6 +147,7 @@ il suffit de lancer le fichier .bat correspondant à votre langue :
 
 Sinon si vous utiliser modorganiser, vous avez juste à ajouter le .bat comme ceci :
 https://i.postimg.cc/tgDzg7cS/2-B8-B6-CD5-2-BA7-45-FD-B897-8-FB4-A9-B0-C294.png
+
 Plus cas lancer via MO2 _FR Physical Core Optimizer qui ira chercher tout seul votre SKSE afin de l'optimiser !
 
 🛑 Lancez toujours le script en tant qu'administrateur, sinon PowerShell ne pourra pas accéder aux informations de votre processeur.
