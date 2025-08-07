@@ -1,7 +1,5 @@
 # Cache les erreurs PowerShell
 $ErrorActionPreference = 'SilentlyContinue'
-Write-Host "               " 
-Write-Host "               " 
 Write-Host "               Lancement de Skyrim avec coeurs physiques..." -ForegroundColor Green
 Write-Host "                    Calcul de l'affinite physique..." -ForegroundColor Green
 
